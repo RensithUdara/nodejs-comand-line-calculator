@@ -29,5 +29,5 @@ const calculate = () => {
     }
     else if (operator === '/') {
         console.log(divide(num1, num2));
-    }
+    } 
 };
