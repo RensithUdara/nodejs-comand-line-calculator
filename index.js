@@ -1,4 +1,5 @@
 require("./calculator.js");
+const { add, subtract, multiply, divide } = require("./calculator.js");
 
 
 
