@@ -3,6 +3,8 @@
 
 import calculator from "./calculator.mjs";
 
+const { add, subtract, multiply, divide } = calculator; // Destructure the imported object
+
 const calculate = () => {
     const operator = process.argv[2];
     const num1 = parseFloat(process.argv[3]);  // Convert to number
