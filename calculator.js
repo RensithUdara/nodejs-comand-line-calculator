@@ -21,7 +21,7 @@ const divide = (num1, num2) => {
 //     divide
 // };
 
-// console.log(module.exports)
+// console.log(module.exports) 
 
 module.exports.add = add;
 module.exports.subtract = subtract;
