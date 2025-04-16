@@ -21,9 +21,9 @@ export default {
     divide
 };
 
-module.exports = {
-    add: add,
-    subtract: subtract,
-    multiply: multiply,
-    divide: divide
-};
+// module.exports = {
+//     add: add,
+//     subtract: subtract,
+//     multiply: multiply,
+//     divide: divide
+// };
