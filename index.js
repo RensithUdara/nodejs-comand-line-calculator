@@ -1,5 +1,3 @@
-
-
 const calculate = () => {
     const operator = process.argv[2];
     const num1 = parseFloat(process.argv[3]);  // Convert to number
