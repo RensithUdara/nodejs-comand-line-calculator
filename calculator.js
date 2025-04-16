@@ -22,3 +22,8 @@ const divide = (num1, num2) => {
 // };
 
 // console.log(module.exports)
+
+module.exports.add = add;
+module.exports.subtract = subtract;
+module.exports.divide = divide;
+module.exports.multiply = multiply; 
